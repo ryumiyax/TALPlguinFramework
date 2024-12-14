@@ -1,0 +1,11 @@
+LIBRARY "plugin"
+EXPORTS
+    Init
+    Update
+    Exit
+    InitVersion
+    InitCardReader
+    InitQRScanner
+    InitQRLogin
+    UpdateStatus
+    WaitTouch
